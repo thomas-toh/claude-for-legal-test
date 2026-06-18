@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "Google Drive": {
+      "type": "http",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "title": "Google Drive",
+      "description": "Search, read, and fetch matter documents, submissions, and exhibits from Google Drive."
+    },
+    "Slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp",
+      "title": "Slack",
+      "description": "Search messages and channels for internal coordination on the matter."
+    }
+  },
+  "recommendedCategories": [
+    "documents",
+    "dms",
+    "arbitration-research",
+    "legal-research",
+    "chat"
+  ]
+}

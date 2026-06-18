@@ -1,0 +1,8 @@
+{
+  "name": "arbitration-legal",
+  "version": "0.1.0",
+  "description": "International arbitration counsel work \u2014 starting with document production: build and review Redfern Schedules, draft IBA Article 3.3-compliant requests, and map objections to the Article 9.2 grounds. Seat- and rules-aware (ICC, LCIA, SIAC, HKIAC, UNCITRAL, ICSID; IBA vs. Prague Rules). Adapts to your side (Claimant or Respondent) and role (firm counsel, in-house, sole practitioner).",
+  "author": {
+    "name": "Thomas Toh"
+  }
+}
